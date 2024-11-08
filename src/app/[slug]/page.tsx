@@ -11,7 +11,7 @@ type Props = {
 
 async function fetchData(slug: string, searchParams: Record<string, string>) {
   const query = new URLSearchParams(searchParams).toString();
-  const baseUrl = process.env.NEXT_PUBLIC_API_BASE_URL || ""; 
+  const baseUrl = process.env.NEXT_PUBLIC_API_BASE_URL || "https://teste2-three-kappa.vercel.app/"; 
   const url = `${baseUrl}/api/layoutProps?slug=${slug}&${query}`;
 
   const res = await fetch(url, { cache: "no-store" });
