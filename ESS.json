@@ -1,0 +1,522 @@
+//substitute-teacher
+{
+  "heroSection": {
+    "title": "Inspire the Future. Teach Today.",
+    "subtitle": "Join our team of dedicated substitute teachers and build your career. Apply today to explore opportunities across our open positions."
+  },
+  "heroApplicationForm": {
+    "title": "Work with us",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": true
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": true
+      },
+      {
+        "label": "Zip Code",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Education",
+        "type": "select",
+        "options": [
+          "Select Education Level",
+          "High School Diploma",
+          "25 or More College Credits",
+          "60 or More College Credits",
+          "Bachelor's Degree",
+          "Master's Degree"
+        ],
+        "required": true
+      }
+    ],
+    "submitButton": {
+      "text": "SUBMIT APPLICATION",
+      "backText": "BACK",
+      "nextText": "NEXT"
+    }
+  },
+  "mainContent": {
+    "title": "THE PERFECT LAUNCHPAD",
+    "subtitle": "Start Teaching and Build Your Career.",
+    "description": "Are you passionate about molding young minds? Are you looking for a flexible career that makes a real difference? As a substitute teacher, you'll have the chance to inspire students, foster their curiosity, and guide their growth while benefiting from a rewarding and adaptable work environment."
+  },
+  "benefits": {
+    "title": "THE BENEFITS",
+    "subtitle": "Why Become A Substitute Teacher",
+    "items": [
+      {
+        "title": "Comprehensive Training",
+        "description": "Our in-depth training program ensures you're well-equipped to step into any classroom."
+      },
+      {
+        "title": "Ongoing Support",
+        "description": "Enjoy consistent backing from our team, ensuring you're never alone on your teaching journey."
+      },
+      {
+        "title": "Health Benefits",
+        "description": "You're eligible for excellent health benefits to keep you thriving inside and outside the classroom."
+      },
+      {
+        "title": "Bonus Opportunities",
+        "description": "With our exciting bonus opportunities, you're regularly rewarded for your dedication."
+      },
+      {
+        "title": "Flexible Scheduling",
+        "description": "Choose assignments that fit your schedule and enjoy the work-life balance you've been searching for."
+      },
+      {
+        "title": "Weekly Pay",
+        "description": "We provide a competitive salary on a weekly basis."
+      }
+    ]
+  },
+  "requirements": {
+    "title": "REQUIREMENTS",
+    "subtitle": "Who We're Looking For",
+    "description": "We're seeking dedicated individuals who are:",
+    "qualities": [
+      "Passionate about education",
+      "Excellent communicators",
+      "Adaptable to different learning environments",
+      "Responsible and reliable"
+    ]
+  },
+  "testimonialSection": {
+    "title": "TESTIMONIALS",
+    "subtitle": "Hear From Other Substitutes We've Hired",
+    "entries": [
+      {
+        "quote": "I've been a sub in a special ed class for 3 weeks now. It's really great helping the kids.",
+        "author": "Mark S.",
+        "location": "Fort Worth, TX"
+      },
+      {
+        "quote": "I've had an amazing experience. The kids were absolutely awesome. I've had some authentic experiences already!",
+        "author": "Vera D.",
+        "location": "Camden, NJ"
+      },
+      {
+        "quote": "Can I recommend this to friends?! I have a few that are interested. I've been loving the job and am telling everyone!",
+        "author": "Bryce V.",
+        "location": "Birmingham, AL"
+      }
+    ]
+  },
+  "ctaBanner": {
+    "title": "Apply Now to Become a Substitute Teacher.",
+    "subtitle": "Join our team of dedicated substitute teachers. Start making a difference in the lives of students, enjoy flexible work, and earn money now.",
+    "buttonText": "START TEACHING"
+  },
+  "footer": {
+    "text": "2024 © Copilot Careers. All rights reserved."
+  }
+}
+//ParaProfessional
+{
+  "heroSection": {
+    "title": "Inspire the Future. Teach Today.",
+    "subtitle": "Join our team of dedicated Paraprofessionals and build your career. Apply today to explore opportunities across our open positions."
+  },
+  "heroApplicationForm": {
+    "title": "Work with us",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": true
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": true
+      },
+      {
+        "label": "Zip Code",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Education",
+        "type": "select",
+        "options": [
+          "Select Education Level",
+          "High School Diploma",
+          "25 or More College Credits",
+          "60 or More College Credits",
+          "Bachelor's Degree",
+          "Master's Degree"
+        ],
+        "required": true
+      }
+    ],
+    "submitButton": {
+      "text": "SUBMIT APPLICATION",
+      "backText": "BACK",
+      "nextText": "NEXT"
+    }
+  },
+  "mainContent": {
+    "title": "THE PERFECT LAUNCHPAD",
+    "subtitle": "Start Teaching and Build Your Career.",
+    "description": "Are you passionate about molding young minds? Are you looking for a flexible career that makes a real difference? As a ParaProfessional you'll have the chance to inspire students, foster their curiosity, and guide their growth while benefiting from a rewarding and adaptable work environment."
+  },
+  "benefits": {
+    "title": "THE BENEFITS",
+    "subtitle": "Why Become A ParaProfessional",
+    "items": [
+      {
+        "title": "Comprehensive Training",
+        "description": "Our in-depth training program ensures you're well-equipped to step into any classroom."
+      },
+      {
+        "title": "Ongoing Support",
+        "description": "Enjoy consistent backing from our team, ensuring you're never alone on your teaching journey."
+      },
+      {
+        "title": "Health Benefits",
+        "description": "You're eligible for excellent health benefits to keep you thriving inside and outside the classroom."
+      },
+      {
+        "title": "Bonus Opportunities",
+        "description": "With our exciting bonus opportunities, you're regularly rewarded for your dedication."
+      },
+      {
+        "title": "Flexible Scheduling",
+        "description": "Choose assignments that fit your schedule and enjoy the work-life balance you've been searching for."
+      },
+      {
+        "title": "Weekly Pay",
+        "description": "We provide a competitive salary on a weekly basis."
+      }
+    ]
+  },
+  "requirements": {
+    "title": "REQUIREMENTS",
+    "subtitle": "Who We're Looking For",
+    "description": "We're seeking dedicated individuals who are:",
+    "qualities": [
+      "Passionate about education",
+      "Excellent communicators",
+      "Adaptable to different learning environments",
+      "Responsible and reliable"
+    ]
+  },
+  "testimonialSection": {
+    "title": "TESTIMONIALS",
+    "subtitle": "Hear From Other Paraprofessionals We've Hired",
+    "entries": [
+      {
+        "quote": "I've been a sub in a special ed class for 3 weeks now. It's really great helping the kids.",
+        "author": "Mark S.",
+        "location": "Fort Worth, TX"
+      },
+      {
+        "quote": "I've had an amazing experience. The kids were absolutely awesome. I've had some authentic experiences already!",
+        "author": "Vera D.",
+        "location": "Camden, NJ"
+      },
+      {
+        "quote": "Can I recommend this to friends?! I have a few that are interested. I've been loving the job and am telling everyone!",
+        "author": "Bryce V.",
+        "location": "Birmingham, AL"
+      }
+    ]
+  },
+  "ctaBanner": {
+    "title": "Apply Now to Become a ParaProfessional.",
+    "subtitle": "Join our team of dedicated ParaProfessionals. Start making a difference in the lives of students, enjoy flexible work, and earn money now.",
+    "buttonText": "START TEACHING"
+  },
+  "footer": {
+    "text": "2024 © Copilot Careers. All rights reserved."
+  }
+}
+//Child Nutrition
+{
+  "heroSection": {
+    "title": "Nourish the Future. Join Our Child Nutrition Team.",
+    "subtitle": "Become a vital part of our mission to provide healthy meals to students. Apply today to explore opportunities across our open positions."
+  },
+  "heroApplicationForm": {
+    "title": "Work with us",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": true
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": true
+      },
+      {
+        "label": "Zip Code",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Education",
+        "type": "select",
+        "options": [
+          "Select Education Level",
+          "High School Diploma",
+          "25 or More College Credits",
+          "60 or More College Credits",
+          "Bachelor's Degree",
+          "Master's Degree"
+        ],
+        "required": true
+      }
+    ],
+    "submitButton": {
+      "text": "SUBMIT APPLICATION",
+      "backText": "BACK",
+      "nextText": "NEXT"
+    }
+  },
+  "mainContent": {
+    "title": "FUELING YOUNG MINDS",
+    "subtitle": "Start Your Career in Child Nutrition.",
+    "description": "Are you passionate about promoting healthy eating habits among children? As a Child Nutrition Specialist, you'll have the opportunity to plan and implement nutritious meal programs, educate students on healthy choices, and ensure compliance with federal and state nutrition guidelines."
+  },
+  "benefits": {
+    "title": "THE BENEFITS",
+    "subtitle": "Why Join Our Child Nutrition Team",
+    "items": [
+      {
+        "title": "Comprehensive Training",
+        "description": "Our in-depth training program ensures you're well-equipped to step into any classroom."
+      },
+      {
+        "title": "Ongoing Support",
+        "description": "Enjoy consistent backing from our team, ensuring you're never alone on your teaching journey."
+      },
+      {
+        "title": "Health Benefits",
+        "description": "You're eligible for excellent health benefits to keep you thriving inside and outside the classroom."
+      },
+      {
+        "title": "Bonus Opportunities",
+        "description": "With our exciting bonus opportunities, you're regularly rewarded for your dedication."
+      },
+      {
+        "title": "Flexible Scheduling",
+        "description": "Choose assignments that fit your schedule and enjoy the work-life balance you've been searching for."
+      },
+      {
+        "title": "Weekly Pay",
+        "description": "We provide a competitive salary on a weekly basis."
+      }
+    ]
+  },
+  "requirements": {
+    "title": "REQUIREMENTS",
+    "subtitle": "Who We're Looking For",
+    "description": "We're seeking dedicated individuals who are:",
+    "qualities": [
+      "Passionate about child nutrition",
+      "Excellent communicators",
+      "Knowledgeable about federal and state nutrition guidelines",
+      "Organized and detail-oriented",
+      "Committed to promoting healthy eating habits"
+    ]
+  },
+  "testimonialSection": {
+    "title": "TESTIMONIALS",
+    "subtitle": "Hear From Our Child Nutrition Specialists",
+    "entries": [
+      {
+        "quote": "Working as a Child Nutrition Specialist has been incredibly rewarding. I love knowing that I'm making a difference in students' lives every day.",
+        "author": "Mark S.",
+        "location": "Fort Worth, TX"
+      },
+      {
+        "quote": "I've had an amazing experience. The kids were absolutely awesome. I've had some authentic experiences already!",
+        "author": "Vera D.",
+        "location": "Camden, NJ"
+      },
+      {
+        "quote": "Can I recommend this to friends?! I have a few that are interested. I've been loving the job and am telling everyone!",
+        "author": "Bryce V.",
+        "location": "Birmingham, AL"
+      }
+    ]
+  },
+  "ctaBanner": {
+    "title": "Apply Now to Become a Child Nutrition Specialist.",
+    "subtitle": "Join our team dedicated to promoting healthy eating habits among students. Start making a difference, enjoy flexible work, and earn money now.",
+    "buttonText": "START YOUR APPLICATION"
+  },
+  "footer": {
+    "text": "2024 © Copilot Careers. All rights reserved."
+  }
+}
+//Substitute Custodian
+{
+  "heroSection": {
+    "title": "Maintain Excellence. Join Our Custodial Team.",
+    "subtitle": "Become an essential part of our mission to provide clean and safe learning environments. Apply today to explore opportunities across our open positions."
+  },
+  "heroApplicationForm": {
+    "title": "Work with us",
+    "fields": [
+      {
+        "label": "First Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Last Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": true
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": true
+      },
+      {
+        "label": "Zip Code",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Education",
+        "type": "select",
+        "options": [
+          "Select Education Level",
+          "High School Diploma",
+          "25 or More College Credits",
+          "60 or More College Credits",
+          "Bachelor's Degree",
+          "Master's Degree"
+        ],
+        "required": true
+      }
+    ],
+    "submitButton": {
+      "text": "SUBMIT APPLICATION",
+      "backText": "BACK",
+      "nextText": "NEXT"
+    }
+  },
+  "mainContent": {
+    "title": "ENSURING CLEAN AND SAFE LEARNING SPACES",
+    "subtitle": "Start Your Career as a Substitute Custodian.",
+    "description": "Are you dedicated to maintaining cleanliness and safety in educational environments? As a Substitute Custodian, you'll play a crucial role in ensuring that school facilities are clean, safe, and functional, allowing students to focus on learning in a healthy environment."
+  },
+  "benefits": {
+    "title": "THE BENEFITS",
+    "subtitle": "Why Join Our Custodial Team",
+    "items": [
+      {
+        "title": "Comprehensive Training",
+        "description": "Our in-depth training program ensures you're well-equipped to step into any classroom."
+      },
+      {
+        "title": "Ongoing Support",
+        "description": "Enjoy consistent backing from our team, ensuring you're never alone on your teaching journey."
+      },
+      {
+        "title": "Health Benefits",
+        "description": "You're eligible for excellent health benefits to keep you thriving inside and outside the classroom."
+      },
+      {
+        "title": "Bonus Opportunities",
+        "description": "With our exciting bonus opportunities, you're regularly rewarded for your dedication."
+      },
+      {
+        "title": "Flexible Scheduling",
+        "description": "Choose assignments that fit your schedule and enjoy the work-life balance you've been searching for."
+      },
+      {
+        "title": "Weekly Pay",
+        "description": "We provide a competitive salary on a weekly basis."
+      }
+    ]
+  },
+  "requirements": {
+    "title": "REQUIREMENTS",
+    "subtitle": "Who We're Looking For",
+    "description": "We're seeking dedicated individuals who are:",
+    "qualities": [
+      "Passionate about maintaining clean and safe environments",
+      "Excellent communicators",
+      "Knowledgeable about cleaning and maintenance procedures",
+      "Organized and detail-oriented",
+      "Committed to supporting the educational mission"
+    ]
+  },
+  "testimonialSection": {
+    "title": "TESTIMONIALS",
+    "subtitle": "Hear From Our Custodial Team Members",
+    "entries": [
+      {
+        "quote": "Working as a Substitute Custodian has been incredibly rewarding. I love knowing that I'm making a difference in students' lives every day.",
+        "author": "Mark S.",
+        "location": "Fort Worth, TX"
+      },
+      {
+        "quote": "I've had an amazing experience. The kids were absolutely awesome. I've had some authentic experiences already!",
+        "author": "Vera D.",
+        "location": "Camden, NJ"
+      },
+      {
+        "quote": "Can I recommend this to friends?! I have a few that are interested. I've been loving the job and am telling everyone!",
+        "author": "Bryce V.",
+        "location": "Birmingham, AL"
+      }
+    ]
+  },
+  "ctaBanner": {
+    "title": "Apply Now to Become a Substitute Custodian.",
+    "subtitle": "Join our team dedicated to maintaining clean and safe learning environments. Start making a difference, enjoy flexible work, and earn money today.",
+    "buttonText": "START YOUR APPLICATION"
+  },
+  "footer": {
+    "text": "2024 © Copilot Careers. All rights reserved."
+  }
+}
