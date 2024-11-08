@@ -30,7 +30,7 @@ export default async function Page({ params, searchParams }: Props) {
   return (
     <Suspense fallback={<>Loading...</>}>
       <div id="tag1"></div>
-      {data.map((componentData: ComponentData, index: number) =>
+      {data?.map((componentData: ComponentData, index: number) =>
         renderComponent(componentData, index)
       )}
     </Suspense>
