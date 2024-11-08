@@ -12,7 +12,7 @@ type Props = {
 async function fetchData(slug: string, searchParams: Record<string, string>) {
   const query = new URLSearchParams(searchParams).toString();
 
-  // Use the NEXT_PUBLIC_API_BASE_URL if available, or default to "" for client-side relative path
+  // Use the NEXT_PUBLIC_API_BASE_URL environment variable
   const baseUrl = process.env.NEXT_PUBLIC_API_BASE_URL || "";
   const url = `${baseUrl}/api/layoutProps?slug=${slug}&${query}`;
 
