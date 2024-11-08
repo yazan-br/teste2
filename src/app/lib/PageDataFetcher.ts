@@ -44,7 +44,7 @@ import {
     paraProfessional,
     childNutrition,
     substituteCustodian
-  } from '@/app/mocks/data';
+  } from '../mocks/data';
   
   // Type to represent the data structure
   type PageData = typeof substituteTeacher;
