@@ -342,7 +342,7 @@ const MultiStepFormPage: React.FC = () => {
               errors={errors}
               errorClassName="absolute"
               nextStepForm
-              titleClassName="text-center font-bold text-xl md:pb-2"
+              titleClassName="text-center font-bold text-[24px] pb-4"
               currentStep={currentStep}
               setCurrentStep={setCurrentStep}
               totalSteps={totalSteps}
