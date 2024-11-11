@@ -40,19 +40,19 @@ const substituteTeacher = [
                             {
                                 type: "div",
                                 props: {
-                                    className: "text-white max-w-xl text-left",
+                                    className: "text-center text-white max-w-xl md:text-left",
                                     children: [
                                         {
                                             type: "h1",
                                             props: {
-                                                className: "font-bold text-[38px] leading-[58px] md:max-w-[353px]",
+                                                className: "font-bold text-[30px] md:text-[38px] md:leading-[58px] md:max-w-[353px]",
                                                 children: "Inspire the Future. Teach Today.",
                                             },
                                         },
                                         {
                                             type: "div",
                                             props: {
-                                                className: "font-normal text-base leading-[29px] md:text-[22px] md:max-w-[422.3px] pt-4",
+                                                className: "text-sm font-normal text-base leading-[29px] md:text-[22px] md:max-w-[422.3px] pt-4",
                                                 children: "Join our team of dedicated substitute teachers and build your career. Apply today to explore opportunities across our open positions.",
                                             },
                                         },
@@ -398,19 +398,19 @@ const paraProfessional = [
                             {
                                 type: "div",
                                 props: {
-                                    className: "text-white max-w-xl text-left",
+                                    className: "text-center text-white max-w-xl md:text-left",
                                     children: [
                                         {
                                             type: "h1",
                                             props: {
-                                                className: "font-bold text-[38px] leading-[58px] md:max-w-[353px]",
+                                                className: "font-bold text-[30px] md:text-[38px] md:leading-[58px] md:max-w-[353px]",
                                                 children: "Inspire the Future. Teach Today.",
                                             },
                                         },
                                         {
                                             type: "div",
                                             props: {
-                                                className: "font-normal text-base leading-[29px] md:text-[22px] md:max-w-[422.3px] pt-4",
+                                                className: "text-sm font-normal text-base leading-[29px] md:text-[22px] md:max-w-[422.3px] pt-4",
                                                 children: "Join our team of dedicated Paraprofessionals and build your career. Apply today to explore opportunities across our open positions.",
                                             },
                                         },
@@ -753,19 +753,19 @@ const childNutrition = [
                             {
                                 type: "div",
                                 props: {
-                                    className: "text-white max-w-xl text-left",
+                                    className: "text-center text-white max-w-xl md:text-left",
                                     children: [
                                         {
                                             type: "h1",
                                             props: {
-                                                className: "font-bold text-[38px] leading-[58px] md:max-w-[353px]",
+                                                className: "font-bold text-lg md:text-[38px] md:leading-[58px] md:max-w-[353px]",
                                                 children: "Nourish the Future. Join Our Child Nutrition Team.",
                                             },
                                         },
                                         {
                                             type: "div",
                                             props: {
-                                                className: "font-normal text-base leading-[29px] md:text-[22px] md:max-w-[422.3px] pt-4",
+                                                className: "text-sm font-normal text-base leading-[29px] md:text-[22px] md:max-w-[422.3px] pt-4",
                                                 children: "Become a vital part of our mission to provide healthy meals to students. Apply today to explore opportunities across our open positions.",
                                             },
                                         },
@@ -1100,7 +1100,7 @@ const substituteCustodian = [
                 tablet: "https://d9hhrg4mnvzow.cloudfront.net/teach.copilotcareers.org/c806eb51-adobestock-436772126-1_10000000xc0m1000004028.png",
             },
             position: "centered middle",
-            tailWindClasses: "md:h-[63vh] h-[84vh]",
+            tailWindClasses: "md:h-[63vh] h-[87vh]",
             children: [
                 {
                     type: "div",
@@ -1110,19 +1110,19 @@ const substituteCustodian = [
                             {
                                 type: "div",
                                 props: {
-                                    className: "text-white max-w-xl text-left",
+                                    className: "text-center text-white max-w-xl md:text-left",
                                     children: [
                                         {
                                             type: "h1",
                                             props: {
-                                                className: "font-bold text-[38px] leading-[58px] md:max-w-[353px]",
+                                                className: "pt-10 font-bold text-[24px] md:text-[38px] md:leading-[58px] md:max-w-[353px]",
                                                 children: "Maintain Excellence. Join Our Custodial Team.",
                                             },
                                         },
                                         {
                                             type: "div",
                                             props: {
-                                                className: "font-normal text-base leading-[29px] md:text-[22px] md:max-w-[422.3px] pt-4",
+                                                className: "text-sm font-normal text-base leading-[29px] md:text-[22px] md:max-w-[422.3px] pt-4 px-7 md:px-0",
                                                 children: "Become an essential part of our mission to provide clean and safe learning environments. Apply today to explore opportunities across our open positions.",
                                             },
                                         },
