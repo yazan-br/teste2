@@ -342,7 +342,7 @@ const MultiStepFormPage: React.FC = () => {
               errors={errors}
               errorClassName="absolute"
               nextStepForm
-              titleClassName="text-center font-bold text-xl pb-2"
+              titleClassName="text-center font-bold text-xl md:pb-2"
               currentStep={currentStep}
               setCurrentStep={setCurrentStep}
               totalSteps={totalSteps}
@@ -352,8 +352,8 @@ const MultiStepFormPage: React.FC = () => {
               inputClassName="rounded-none p-3 text-left border border-gray-500"
               fieldWrapperClassName="text-left"
               title="Work with us"
-              backButtonClassName="w-[158px] h-[48px] bg-white border border-solid border-black rounded-[2px] text-black text-[16px] leading-[19px] font-semibold font-poppins text-center shadow-none hover:bg-[rgba(242,194,194,1)] transition-colors duration-300"
-              nextButtonClassName="w-[160px] h-[50px] bg-[rgba(18,104,207,1)] rounded-[2px] text-white text-[16px] leading-[19px] font-semibold font-poppins text-center shadow-none border-none"
+              backButtonClassName="md:w-[158px] h-[48px] bg-white border border-solid border-black rounded-[2px] text-black text-[16px] leading-[19px] font-semibold font-poppins text-center shadow-none hover:bg-[rgba(242,194,194,1)] transition-colors duration-300"
+              nextButtonClassName="md:w-[160px] h-[50px] bg-[rgba(18,104,207,1)] rounded-[2px] text-white text-[16px] leading-[19px] font-semibold font-poppins text-center shadow-none border-none"
               submitButtonClassName={`w-[160px] h-[50px] rounded-[2px] text-white text-[16px] leading-[19px] font-semibold font-poppins text-center shadow-none border-none transition-colors duration-300 ${
                 isSuccess ? "bg-green-500" : "bg-[rgba(18,104,207,1)]"
               }`}
